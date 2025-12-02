@@ -15,6 +15,7 @@ sites:
     url: https://finf.uni-hannover.de
   - name: HCI Abgaben
     url: https://assignments.hci.uni-hannover.de
+    __dangerous__insecure: true
   - name: QIS
     url: https://qis.verwaltung.uni-hannover.de
   - name: ILIAS
