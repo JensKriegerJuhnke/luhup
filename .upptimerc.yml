@@ -13,8 +13,6 @@ sites:
     url: https://gitlab.uni-hannover.de
   - name: FINF
     url: https://finf.uni-hannover.de
-  - name: StudiFutter
-    url: https://studi-futter.rocket-meals.de
   - name: HCI Abgaben
     url: https://assignments.hci.uni-hannover.de
   - name: QIS
