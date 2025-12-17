@@ -62,19 +62,19 @@
     "url": "https://gitlab.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.uni-hannover.de.ico",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6282,
-    "timeDay": 8255,
-    "timeWeek": 3243,
-    "timeMonth": 6282,
-    "timeYear": 6282,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 5993,
+    "timeDay": 4528,
+    "timeWeek": 2937,
+    "timeMonth": 5993,
+    "timeYear": 5993,
     "dailyMinutesDown": {
-      "2025-12-17": 0
+      "2025-12-17": 36
     }
   },
   {
