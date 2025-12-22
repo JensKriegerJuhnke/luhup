@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/finf.uni-hannover.de.ico",
     "slug": "finf",
     "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "69.66%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
+    "uptime": "98.45%",
+    "uptimeDay": "68.43%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
     "time": 2030,
     "timeDay": 2041,
     "timeWeek": 1958,
     "timeMonth": 2030,
     "timeYear": 2030,
     "dailyMinutesDown": {
-      "2025-12-22": 437
+      "2025-12-22": 455
     }
   },
   {
@@ -158,19 +158,19 @@
     "url": "https://luh.rip",
     "icon": "https://icons.duckduckgo.com/ip3/luh.rip.ico",
     "slug": "wichtigste-seite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1724,
-    "timeDay": 1787,
-    "timeWeek": 1653,
-    "timeMonth": 1724,
-    "timeYear": 1724,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1728,
+    "timeDay": 1801,
+    "timeWeek": 1673,
+    "timeMonth": 1728,
+    "timeYear": 1728,
     "dailyMinutesDown": {
-      "2025-12-22": 0
+      "2025-12-22": 18
     }
   }
 ]
