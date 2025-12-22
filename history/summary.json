@@ -82,9 +82,9 @@
     "url": "https://finf.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/finf.uni-hannover.de.ico",
     "slug": "finf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 1958,
     "timeMonth": 2030,
     "timeYear": 2030,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-22": 0
+    }
   },
   {
     "name": "HCI Abgaben",
@@ -101,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/assignments.hci.uni-hannover.de.ico",
     "slug": "hci-abgaben",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 748,
     "timeDay": 951,
     "timeWeek": 827,
