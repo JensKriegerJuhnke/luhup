@@ -13,7 +13,7 @@
     "time": 1445,
     "timeDay": 1215,
     "timeWeek": 1185,
-    "timeMonth": 1302,
+    "timeMonth": 1316,
     "timeYear": 1445,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 871,
     "timeDay": 706,
     "timeWeek": 772,
-    "timeMonth": 823,
+    "timeMonth": 822,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2026-03-09": 179,
@@ -53,7 +53,7 @@
     "time": 2358,
     "timeDay": 1325,
     "timeWeek": 1263,
-    "timeMonth": 2396,
+    "timeMonth": 2409,
     "timeYear": 2358,
     "dailyMinutesDown": {
       "2026-03-05": 60,
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.uni-hannover.de.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "97.30%",
+    "uptime": "97.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "97.30%",
+    "uptimeYear": "97.31%",
     "time": 4933,
     "timeDay": 1918,
     "timeWeek": 5203,
-    "timeMonth": 3821,
+    "timeMonth": 3779,
     "timeYear": 4933,
     "dailyMinutesDown": {
       "2026-03-28": 16,
@@ -104,7 +104,7 @@
     "time": 2081,
     "timeDay": 2219,
     "timeWeek": 2635,
-    "timeMonth": 2351,
+    "timeMonth": 2335,
     "timeYear": 2081,
     "dailyMinutesDown": {
       "2025-12-22": 662
@@ -124,7 +124,7 @@
     "time": 778,
     "timeDay": 642,
     "timeWeek": 760,
-    "timeMonth": 672,
+    "timeMonth": 673,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2025-12-02": 130
@@ -144,7 +144,7 @@
     "time": 1017,
     "timeDay": 912,
     "timeWeek": 1218,
-    "timeMonth": 927,
+    "timeMonth": 926,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2026-03-29": 56,
@@ -171,7 +171,7 @@
     "time": 1710,
     "timeDay": 1277,
     "timeWeek": 1414,
-    "timeMonth": 1705,
+    "timeMonth": 1706,
     "timeYear": 1710,
     "dailyMinutesDown": {}
   },
@@ -189,7 +189,7 @@
     "time": 1533,
     "timeDay": 1108,
     "timeWeek": 1364,
-    "timeMonth": 1262,
+    "timeMonth": 1275,
     "timeYear": 1533,
     "dailyMinutesDown": {
       "2026-02-10": 62,
