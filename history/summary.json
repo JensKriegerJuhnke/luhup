@@ -44,9 +44,9 @@
     "url": "https://login.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/login.uni-hannover.de.ico",
     "slug": "idm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -56,6 +56,7 @@
     "timeMonth": 1509,
     "timeYear": 2236,
     "dailyMinutesDown": {
+      "2026-04-21": 0,
       "2026-03-05": 60,
       "2025-12-02": 109
     }
