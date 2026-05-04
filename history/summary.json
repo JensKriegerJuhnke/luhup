@@ -13,7 +13,7 @@
     "time": 1434,
     "timeDay": 1469,
     "timeWeek": 1442,
-    "timeMonth": 1399,
+    "timeMonth": 1407,
     "timeYear": 1434,
     "dailyMinutesDown": {}
   },
@@ -53,7 +53,7 @@
     "time": 2181,
     "timeDay": 1857,
     "timeWeek": 1435,
-    "timeMonth": 1591,
+    "timeMonth": 1600,
     "timeYear": 2181,
     "dailyMinutesDown": {
       "2026-04-21": 99,
@@ -66,18 +66,19 @@
     "url": "https://gitlab.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.uni-hannover.de.ico",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "97.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.90%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 4545,
     "timeDay": 2816,
     "timeWeek": 3960,
-    "timeMonth": 3388,
+    "timeMonth": 3382,
     "timeYear": 4545,
     "dailyMinutesDown": {
+      "2026-05-04": 0,
       "2026-04-24": 82,
       "2026-03-28": 16,
       "2026-03-27": 55,
@@ -106,7 +107,7 @@
     "time": 2080,
     "timeDay": 1735,
     "timeWeek": 2064,
-    "timeMonth": 2087,
+    "timeMonth": 2072,
     "timeYear": 2080,
     "dailyMinutesDown": {
       "2025-12-22": 662
@@ -126,7 +127,7 @@
     "time": 791,
     "timeDay": 762,
     "timeWeek": 752,
-    "timeMonth": 851,
+    "timeMonth": 850,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2025-12-02": 130
@@ -146,7 +147,7 @@
     "time": 1012,
     "timeDay": 1636,
     "timeWeek": 1032,
-    "timeMonth": 1030,
+    "timeMonth": 1031,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2026-04-16": 83,
@@ -196,7 +197,7 @@
     "time": 1499,
     "timeDay": 1442,
     "timeWeek": 1264,
-    "timeMonth": 1319,
+    "timeMonth": 1314,
     "timeYear": 1499,
     "dailyMinutesDown": {
       "2026-02-10": 62,
