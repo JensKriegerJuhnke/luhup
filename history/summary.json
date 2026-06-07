@@ -118,20 +118,20 @@
     "url": "https://assignments.hci.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/assignments.hci.uni-hannover.de.ico",
     "slug": "hci-abgaben",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.92%",
     "time": 793,
-    "timeDay": 913,
-    "timeWeek": 855,
-    "timeMonth": 806,
+    "timeDay": 829,
+    "timeWeek": 842,
+    "timeMonth": 805,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-12-02": 130,
-      "2026-06-07": 0
+      "2026-06-07": 90
     }
   },
   {
