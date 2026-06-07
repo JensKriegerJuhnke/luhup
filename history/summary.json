@@ -67,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.uni-hannover.de.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.27%",
     "time": 4186,
     "timeDay": 977,
     "timeWeek": 1255,
@@ -118,9 +118,9 @@
     "url": "https://assignments.hci.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/assignments.hci.uni-hannover.de.ico",
     "slug": "hci-abgaben",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -130,7 +130,8 @@
     "timeMonth": 806,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-12-02": 130
+      "2025-12-02": 130,
+      "2026-06-07": 0
     }
   },
   {
