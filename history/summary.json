@@ -22,11 +22,11 @@
     "url": "https://sso.idm.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/sso.idm.uni-hannover.de.ico",
     "slug": "web-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 857,
     "timeDay": 6436,
@@ -37,7 +37,7 @@
       "2025-12-02": 109,
       "2026-03-05": 60,
       "2026-03-09": 179,
-      "2026-08-14": 19
+      "2026-08-14": 30
     }
   },
   {
@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.uni-hannover.de.ico",
     "slug": "idm",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "91.47%",
-    "uptimeWeek": "90.43%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.63%",
+    "uptimeDay": "82.75%",
+    "uptimeWeek": "89.18%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "99.63%",
     "time": 2171,
     "timeDay": 2556,
     "timeWeek": 2415,
@@ -62,7 +62,7 @@
       "2026-04-21": 99,
       "2026-08-12": 405,
       "2026-08-11": 437,
-      "2026-08-14": 123
+      "2026-08-14": 249
     }
   },
   {
@@ -146,11 +146,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qis.verwaltung.uni-hannover.de.ico",
     "slug": "qis",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "87.53%",
-    "uptimeWeek": "91.29%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.43%",
+    "uptimeDay": "78.81%",
+    "uptimeWeek": "90.05%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "99.43%",
     "time": 1127,
     "timeDay": 11310,
     "timeWeek": 5557,
@@ -172,7 +172,7 @@
       "2026-04-16": 83,
       "2026-08-11": 381,
       "2026-08-12": 317,
-      "2026-08-14": 180
+      "2026-08-14": 305
     }
   },
   {
