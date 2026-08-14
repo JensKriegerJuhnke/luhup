@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1605,
     "timeDay": 1194,
-    "timeWeek": 1763,
+    "timeWeek": 1688,
     "timeMonth": 1637,
     "timeYear": 1605,
     "dailyMinutesDown": {}
@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.idm.uni-hannover.de.ico",
     "slug": "web-sso",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 813,
     "timeDay": 538,
-    "timeWeek": 771,
+    "timeWeek": 795,
     "timeMonth": 686,
     "timeYear": 813,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.70%",
     "time": 2167,
     "timeDay": 1805,
-    "timeWeek": 2223,
+    "timeWeek": 2287,
     "timeMonth": 1957,
     "timeYear": 2167,
     "dailyMinutesDown": {
@@ -109,7 +109,7 @@
     "uptimeYear": "99.79%",
     "time": 1987,
     "timeDay": 1774,
-    "timeWeek": 2007,
+    "timeWeek": 1930,
     "timeMonth": 1742,
     "timeYear": 1987,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
     "uptimeYear": "99.94%",
     "time": 784,
     "timeDay": 512,
-    "timeWeek": 786,
+    "timeWeek": 790,
     "timeMonth": 747,
     "timeYear": 784,
     "dailyMinutesDown": {
@@ -143,15 +143,15 @@
     "url": "https://qis.verwaltung.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/qis.verwaltung.uni-hannover.de.ico",
     "slug": "qis",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "93.07%",
     "uptimeMonth": "98.41%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 1051,
     "timeDay": 606,
-    "timeWeek": 3445,
+    "timeWeek": 3728,
     "timeMonth": 1591,
     "timeYear": 1051,
     "dailyMinutesDown": {
@@ -169,7 +169,8 @@
       "2026-04-07": 61,
       "2026-04-16": 83,
       "2026-08-11": 381,
-      "2026-08-12": 317
+      "2026-08-12": 317,
+      "2026-08-14": 0
     }
   },
   {
@@ -185,7 +186,7 @@
     "uptimeYear": "100.00%",
     "time": 1779,
     "timeDay": 1556,
-    "timeWeek": 2097,
+    "timeWeek": 2087,
     "timeMonth": 1936,
     "timeYear": 1779,
     "dailyMinutesDown": {}
@@ -203,7 +204,7 @@
     "uptimeYear": "99.98%",
     "time": 1406,
     "timeDay": 1196,
-    "timeWeek": 1256,
+    "timeWeek": 1239,
     "timeMonth": 1284,
     "timeYear": 1406,
     "dailyMinutesDown": {
