@@ -1,7 +1,7 @@
 url: https://gitlab.uni-hannover.de
-status: up
-code: 200
-responseTime: 1153
-lastUpdated: 2026-08-24T23:17:07.566Z
+status: down
+code: 502
+responseTime: 643
+lastUpdated: 2026-08-25T10:52:12.121Z
 startTime: 2025-12-02T07:36:35.229Z
 generator: Upptime <https://github.com/upptime/upptime>
