@@ -148,12 +148,12 @@
     "url": "https://qis.verwaltung.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/qis.verwaltung.uni-hannover.de.ico",
     "slug": "qis",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 1168,
     "timeDay": 1363,
     "timeWeek": 935,
@@ -176,7 +176,8 @@
       "2026-08-11": 381,
       "2026-08-12": 317,
       "2026-08-14": 347,
-      "2026-08-15": 5
+      "2026-08-15": 5,
+      "2026-09-16": 0
     }
   },
   {
