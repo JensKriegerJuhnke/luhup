@@ -22,9 +22,9 @@
     "url": "https://sso.idm.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/sso.idm.uni-hannover.de.ico",
     "slug": "web-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -38,7 +38,8 @@
       "2026-03-05": 60,
       "2026-03-09": 179,
       "2026-08-14": 72,
-      "2026-08-15": 61
+      "2026-08-15": 61,
+      "2026-10-10": 0
     }
   },
   {
@@ -130,7 +131,7 @@
     "status": "up",
     "uptime": "95.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.74%",
+    "uptimeWeek": "65.11%",
     "uptimeMonth": "53.57%",
     "uptimeYear": "95.42%",
     "time": 778,
