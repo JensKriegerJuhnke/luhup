@@ -47,10 +47,10 @@
     "url": "https://login.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/login.uni-hannover.de.ico",
     "slug": "idm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 2294,
@@ -65,7 +65,8 @@
       "2026-08-12": 405,
       "2026-08-11": 437,
       "2026-08-14": 291,
-      "2026-08-15": 4
+      "2026-08-15": 4,
+      "2026-10-21": 1
     }
   },
   {
@@ -221,20 +222,21 @@
     "url": "https://luh.rip",
     "icon": "https://icons.duckduckgo.com/ip3/luh.rip.ico",
     "slug": "wichtigste-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1375,
-    "timeDay": 1062,
-    "timeWeek": 1324,
-    "timeMonth": 1251,
-    "timeYear": 1375,
+    "time": 1374,
+    "timeDay": 1179,
+    "timeWeek": 1321,
+    "timeMonth": 1252,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-12-22": 18,
-      "2026-02-10": 62
+      "2026-02-10": 62,
+      "2026-10-21": 0
     }
   }
 ]
