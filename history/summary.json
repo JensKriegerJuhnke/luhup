@@ -145,17 +145,17 @@
     "url": "https://assignments.hci.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/assignments.hci.uni-hannover.de.ico",
     "slug": "hci-abgaben",
-    "status": "down",
-    "uptime": "95.80%",
-    "uptimeDay": "56.53%",
-    "uptimeWeek": "92.69%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "95.80%",
-    "time": 775,
-    "timeDay": 756,
-    "timeWeek": 768,
-    "timeMonth": 762,
-    "timeYear": 775,
+    "status": "up",
+    "uptime": "95.75%",
+    "uptimeDay": "56.56%",
+    "uptimeWeek": "89.95%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "95.75%",
+    "time": 774,
+    "timeDay": 677,
+    "timeWeek": 738,
+    "timeMonth": 752,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2025-12-02": 130,
       "2026-06-07": 90,
@@ -175,7 +175,7 @@
       "2026-09-22": 1440,
       "2026-09-21": 596,
       "2026-11-18": 523,
-      "2026-11-19": 214
+      "2026-11-19": 491
     }
   },
   {
@@ -183,16 +183,16 @@
     "url": "https://qis.verwaltung.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/qis.verwaltung.uni-hannover.de.ico",
     "slug": "qis",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "85.46%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.40%",
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "66.26%",
+    "uptimeWeek": "95.18%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "99.34%",
     "time": 1132,
-    "timeDay": 0,
-    "timeWeek": 827,
-    "timeMonth": 1036,
+    "timeDay": 970,
+    "timeWeek": 847,
+    "timeMonth": 1034,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2026-01-13": 164,
@@ -216,7 +216,7 @@
       "2026-09-16": 62,
       "2026-10-15": 287,
       "2026-10-23": 296,
-      "2026-11-19": 209
+      "2026-11-19": 486
     }
   },
   {
