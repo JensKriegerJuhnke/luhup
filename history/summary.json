@@ -90,9 +90,9 @@
     "url": "https://gitlab.uni-hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.uni-hannover.de.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
@@ -116,7 +116,8 @@
       "2026-04-24": 82,
       "2026-05-04": 18,
       "2026-06-16": 285,
-      "2026-08-25": 25
+      "2026-08-25": 25,
+      "2026-11-19": 0
     }
   },
   {
@@ -147,12 +148,12 @@
     "slug": "hci-abgaben",
     "status": "up",
     "uptime": "95.75%",
-    "uptimeDay": "56.56%",
+    "uptimeDay": "65.93%",
     "uptimeWeek": "89.95%",
     "uptimeMonth": "97.69%",
     "uptimeYear": "95.75%",
     "time": 774,
-    "timeDay": 677,
+    "timeDay": 642,
     "timeWeek": 738,
     "timeMonth": 752,
     "timeYear": 774,
