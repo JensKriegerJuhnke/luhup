@@ -1,7 +1,7 @@
 url: https://assignments.hci.uni-hannover.de
-status: up
-code: 200
-responseTime: 1134
-lastUpdated: 2026-11-20T08:35:43.924Z
+status: down
+code: 500
+responseTime: 335
+lastUpdated: 2026-11-21T03:51:45.336Z
 startTime: 2025-12-02T07:36:39.060Z
 generator: Upptime <https://github.com/upptime/upptime>
